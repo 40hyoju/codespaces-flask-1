@@ -7,7 +7,7 @@ data = [
         "genus_kor_nm": "깻잎속",
         "genus_nm": "Brassica",
         "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr8Uh-buvRfMZZXw4LYjN5OZthg6mmEIFsWA&s",
-        "desc": "깻잎은 맛있다"
+        "desc": "깻잎은 고기랑 쌈 싸먹으세요"
     },
     {
         "id": 2,
